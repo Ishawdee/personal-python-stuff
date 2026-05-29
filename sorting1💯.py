@@ -1,5 +1,4 @@
-# unrelated to this season, but whatever :/
-# this is a way for sorting a list by creating a new list
+# sorting a list by creating a new list/not in-place
 def sort(elements: list, ascending: bool = True):
 
     if ascending:
