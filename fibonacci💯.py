@@ -1,5 +1,4 @@
-# unrelated to this season, but whatever :/
-# making a fibonacci algorithm with some conditions
+# a fibonacci algorithm with some conditions
 def gen_fibonacci(upper_bound):
     try:
         if isinstance(upper_bound, int) == False and isinstance(upper_bound, float) == False:
